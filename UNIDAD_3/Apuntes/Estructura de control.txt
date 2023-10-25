@@ -1,0 +1,21 @@
+Estructuras de control
+
+° If  ° If-else  ° switch
+° operador condicional (solo java)
+
+	ESTRUCTURA DE If
+
+  if(condición)
+	//código de ejecutar
+   SOLO UN SOLO CODIGO
+
+  if(condición){
+	//bloque de
+	//código de ejecutar
+  }
+
+
+linea de if no lleva punto y coma al final 
+
+
+

@@ -1,0 +1,15 @@
+Actividad 3_1 Elaborar los algoritmos y programas en python siguientes (entregando un docummento con los algoritmos y programas *.py en un archivo .rar)
+
+P3_1 Aceptar un numero entero e imprimir si esta aprobado o No acreditado, considerando 70 como cal aprobatoria 
+
+P3_2 Aceptar un valor numerico que represente Temperaura y decir el como esta el clima (Frio, Templado, Caliente)
+
+P3_3 Aceptar un string con el nombre de la moneda, un valor numerico y dependiendo de la moneda calcular el tipo de cambio.
+
+P3_4 Aceptar un valor entero y dependiendo del valor decir en que etapa se encuentra (Parvulo, Infante, adolecente, joven, adulto,adulto mayor, tercera edad, anciano, etc.)
+
+P3_5 Aceptar 2 numeros enteros y decir si son iguales, o cual es mayor y cual es menor.
+
+
+
+
