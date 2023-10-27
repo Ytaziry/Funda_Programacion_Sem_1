@@ -1,0 +1,64 @@
+	Prueba de escritotio
+
+suma = 0, c = 1 
+	mientras (1<=20) verdadero 
+		suma = 0 + 1 = 1
+			c = c + 1 = 1 + 1 = 2
+	mientras (2<=20) verdadero 
+		suma = 1 + 2 = 2
+			c = c + 1 = 2 + 1 = 3
+	mientras (3<=20) verdadero
+		suma = 3 + 3 = 6 
+			c = c + 1 = 3 + 1 = 4 
+	mientras (4<=20) verdadero 
+		suma = 6 + 4 = 10 
+			c = c + 1 = 4 + 1 = 5 
+	mientras (5<=20) verdadero 
+		suma = 10 + 5 = 15 
+			c = c + 1 = 5 + 1 = 6
+	mientras (6<=20) verdadero 
+		suma = 15 + 6 = 21 
+			c = c + 1 = 6 + 1 = 7 
+	mientras (7<=20) verdadero 
+		suma = 21 + 7 = 28 
+			c = c + 1 = 7 + 1 = 8 
+	mientras (8<=20) verdadero 
+		suma = 28 + 8 = 36 
+			c = c + 1 = 8 + 1 = 9 
+	mientras (9<=20) verdadero 
+		suma = 36 + 9 = 45 
+			c = c + 1 = 9 + 1 = 10 
+	mientras (10<=20) verdadero 
+		suma = 45 + 10 = 55 
+			c = c + 1 = 10 + 1 = 11 
+	mientras (11<=20) verdadero 
+		suma = 55 + 11 = 66
+			c = c + 1 = 11 + 1 = 12
+	mientras (12<=20) verdadero 
+		suma = 66 + 12 = 78
+			c = c + 1 = 12 + 1 = 13  
+	mientras (13<=20) verdadero 
+		suma = 78 + 13 = 91 
+			c = c + 1 = 13 + 1 = 14
+	mientras (14<=20) verdadero 
+		suma = 91 + 14 = 105 
+			c = c + 1 = 14 + 1 = 15 
+	mientras (15<=20) verdadero 
+		suma = 105 + 15 = 120 
+			c = c + 1 = 15 + 1 = 16 
+	mientras (16<=20) verdadero 
+		suma = 120 + 16 = 136
+			c = c + 1 = 16 + 1 = 17 
+	mientras (17<=20) verdadero 
+		suma = 136 + 17 = 153
+			c = c + 1 = 17 + 1 = 18 
+	mientras (18<=20) verdadero 
+		suma = 153 + 18 = 171 
+			c = c + 1 = 18 + 1 = 19 
+	mientras (19<=20) verdadero 
+		suma = 171 + 19 = 190 
+			c = c + 1 = 19 + 1 = 20  
+	mientras (20<=20) verdadero 
+		suma = 190 + 20 = 210
+			c = c + 1 = 10 + 1 = 21 
+	mientras (21<=20) FALSO
