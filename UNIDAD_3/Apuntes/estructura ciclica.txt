@@ -1,0 +1,8 @@
+
+Estreuctura de For 
+	(Repetir código n veces)
+
+ 	for (comntador =1; condición ; incremento / decremento)  {
+					( + + )		( - - )
+		// bloque de código a repetir 
+     } 
