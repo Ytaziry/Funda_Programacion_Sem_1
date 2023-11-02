@@ -1,0 +1,5 @@
+Concatenación : unir texto (string)
+
+Console.WriteLine ("Tu salario del año " + c + " es: " + sueldo);
+					|||
+				Concatenación (Unir)
