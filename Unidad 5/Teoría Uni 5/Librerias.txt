@@ -1,0 +1,13 @@
+Librerias (Funciones de terceros)
+
+	Math		b = bas, e = exponente	
+		
+	pow ( b , e ); eleva potencia
+	sqrt ( x ); raiz cuadrada
+	random (); número aleatorio
+	max (a , b ); valor máximo del rango a, b 
+	min ( a , b ); valor minimo del rango a, b
+	round ( x ); redondea un decimal
+	floor (	x ); devuelve entero más grande
+	ceil ( x ); devuelve entero más pequeño
+	abs ( x ); valor absoluto
